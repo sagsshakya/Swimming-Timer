@@ -1,0 +1,5 @@
+n_laps: 3
+input_dir: "input"
+output_dir: "output"
+first_output_filename: "sample.tsv"
+second_output_filename: "Results.pdf"
